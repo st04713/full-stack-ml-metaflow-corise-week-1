@@ -3,7 +3,6 @@ from metaflow import FlowSpec, step, card
 
 class TFlow1(FlowSpec):
     """
-    train a boosted tree
     """
 
     @card
